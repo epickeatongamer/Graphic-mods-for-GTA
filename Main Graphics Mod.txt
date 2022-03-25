@@ -1,0 +1,12 @@
+Instructions to use graphics mods online
+Credits to the creator, I am just reposting it again
+
+https://pastebin.com/AzGtw9Zb
+- Password: 9dPXCQ6DZV
+
+Update Patch Changelog:
+    - Updated to 1.58 (2545.0)
+    - Updated Radio & Weapons hud
+    - Removed Chromatic aberration & Lens distortion
+    - Changed Hud color from Dark Purple to Red (Seasonal)
+    - Created Dark Purple hud restore (Can be found in notes)
